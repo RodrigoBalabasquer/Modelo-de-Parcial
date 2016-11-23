@@ -1,0 +1,5 @@
+D:\Balabasquer.Rodrigo.2A\Excepciones\bin\Debug\Excepciones.dll
+D:\Balabasquer.Rodrigo.2A\Excepciones\bin\Debug\Excepciones.pdb
+D:\Balabasquer.Rodrigo.2A\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+D:\Balabasquer.Rodrigo.2A\Excepciones\obj\Debug\Excepciones.dll
+D:\Balabasquer.Rodrigo.2A\Excepciones\obj\Debug\Excepciones.pdb

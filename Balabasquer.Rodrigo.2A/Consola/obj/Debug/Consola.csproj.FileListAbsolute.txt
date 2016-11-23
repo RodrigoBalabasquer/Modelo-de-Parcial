@@ -1,0 +1,10 @@
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2A\Consola\bin\Debug\Consola.exe.config
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2A\Consola\bin\Debug\Consola.exe
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2A\Consola\bin\Debug\Consola.pdb
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2A\Consola\bin\Debug\Excepciones.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2A\Consola\bin\Debug\Libreria.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2A\Consola\bin\Debug\Excepciones.pdb
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2A\Consola\bin\Debug\Libreria.pdb
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2A\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2A\Consola\obj\Debug\Consola.exe
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2A\Consola\obj\Debug\Consola.pdb

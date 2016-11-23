@@ -1,0 +1,14 @@
+D:\Balabasquer.Rodrigo.2A\Libreria\bin\Debug\Libreria.dll
+D:\Balabasquer.Rodrigo.2A\Libreria\bin\Debug\Libreria.pdb
+D:\Balabasquer.Rodrigo.2A\Libreria\bin\Debug\Excepciones.dll
+D:\Balabasquer.Rodrigo.2A\Libreria\bin\Debug\Excepciones.pdb
+D:\Balabasquer.Rodrigo.2A\Libreria\obj\Debug\Libreria.csprojResolveAssemblyReference.cache
+D:\Balabasquer.Rodrigo.2A\Libreria\obj\Debug\Libreria.dll
+D:\Balabasquer.Rodrigo.2A\Libreria\obj\Debug\Libreria.pdb
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2A\Libreria\obj\Debug\Libreria.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2A\Libreria\obj\Debug\Libreria.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2A\Libreria\bin\Debug\Libreria.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2A\Libreria\bin\Debug\Libreria.pdb
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2A\Libreria\bin\Debug\Excepciones.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2A\Libreria\bin\Debug\Excepciones.pdb
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2A\Libreria\obj\Debug\Libreria.pdb
